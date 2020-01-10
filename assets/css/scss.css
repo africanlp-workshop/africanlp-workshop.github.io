@@ -1,0 +1,148 @@
+---
+---
+
+// $header-bg-color-secondary: #159957;
+// $header-bg-color: #155799;
+
+body{
+    color: #2e2d2d;
+}
+.headerbox{
+    // border: 3px solid blue ;
+    background-image: url("../../images/banner2.jpg");
+    background-size: cover;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-color: #1C8BE2;
+}
+.iblock{
+    display: inline-block;
+}
+.headercontent{  
+    height: 100%;
+    color: #2e2d2d;
+}
+
+.centermiddle{
+    margin: auto;
+    max-width: 950px;
+    padding: 0px 20px 0px 20px;
+    color: #2e2d2d;
+}
+.maintopic{
+    display: inline-block;
+    text-transform: uppercase;
+     
+    padding:0px 0px 3px 0px;
+    font-size: 2.5em;
+    font-weight: bold; 
+    // border-bottom: 1px solid #251E20; 
+}
+.subtopic{
+    padding: 20px 0px 0px 0px;
+    font-size: 1.3em;
+    text-shadow: 1px 1px #50505015;
+}
+.border{
+    border: 2px solid black;
+}
+.navtop{
+    height: 3px;
+    background-color: #1C8BE2;
+}
+.navbar{
+
+}
+.navbutton{
+    display: inline-block;
+    margin: 0px;
+    // border: 1px solid green; 
+    padding: 10px 20px 10px 10px;
+    transition: background-color 0.5s ease;
+    text-decoration: none;
+}
+.navbutton:hover{
+    background-color:  #1C8BE2;
+    text-decoration: none;
+    color: white;
+}
+.navactive{
+    background-color: #1C8BE2;
+    color: white;
+}
+
+.headshotbox{
+    margin: 10px 15px 0px 0px;
+    max-width: 210px;
+    // height: 300px;
+    // border: 1px solid black;
+    // display: flex;
+    vertical-align:top;
+}
+.headshot{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display:block;
+    border-radius: 4px;
+}
+.headshotname{
+    margin: 5px 0px 0px 0px;
+}
+.headshotaffiliation{ 
+  
+   color: #1C8BE2;
+//    cursor: text;
+}
+
+.headshotaffiliation:hover{
+    // text-decoration: none;
+}
+table {
+    width: 100%;
+    max-width: 50rem;
+    color: #fff;
+}
+table th {
+    color: #000;
+}
+table th,
+table td {
+    padding: 0.5rem 1rem;
+}
+table th {
+    font-weight: normal;
+}
+table td {
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    border-radius: 0.2rem;
+    transition: opacity 0.3s ease;
+}
+table td > span {
+    font-size: 0.8em;
+    font-weight: normal;
+    display: block;
+    width: 100%;
+}
+.contributed-talk {
+    background-color: #9750a1;
+}
+.welcome-remarks {
+    background-color: #6778d0;
+}
+.panel {
+    background-color: #ba496b;
+}
+.awards {
+    background-color: #ba6337;
+}
+.break {
+    background-color: #50b47b;
+}
+.invited {
+      background-color: #98a441;
+}
+
+@import "{{ site.theme }}";

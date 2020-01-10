@@ -50,4 +50,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-#
+
+
+navigation:
+- text: HOME
+  url: /
+- text: CALL FOR PAPERS
+  url: /cfp.html
+- text: DATES
+  url: /dates.html
+  layout: project
+- text: PROGRAM
+  url: /program.html
+  layout: post
+- text: ORGANIZERS
+  url: /organizers.html  
