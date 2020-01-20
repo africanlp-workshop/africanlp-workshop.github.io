@@ -24,4 +24,4 @@ The workshop will be a full day event from 9:00 - 18:00. The tentative schedule 
 
 
 
-Each oral presentation will be 15 minutes followed by 5 minutes for Q/A, each invited speaker presentation will be 35 minutes followed by 5 minutes for Q/A for increased discussion. 
+Each oral presentation will be 15 minutes followed by 5 minutes for Q/A, each invited speaker presentation will be 25 minutes followed by 5 minutes for Q/A for increased discussion. 
