@@ -4,54 +4,65 @@
 // $header-bg-color-secondary: #159957;
 // $header-bg-color: #155799;
 
+figure {
+    display: inline-block;
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
+    font-size: 10px;
+}
+
+a {
+    color:  #136100;
+}
+
+
+table {
+    color:  #606c71 !important;
+}
 body{
     color: #2e2d2d;
 }
 .headerbox{
     // border: 3px solid blue ;
-    background-image: url("../../images/banner3.jpg");
+    background: linear-gradient( rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.7) ), url('../../images/banner3.jpg');
     background-size: cover;
     height: 300px;
     background-repeat: no-repeat;
-    background-color: #1C8BE2;
-    color: white;
+    background-color: #136100;
 }
 .iblock{
     display: inline-block;
 }
 
-.map {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
 .headercontent{  
     height: 100%;
-    color: #2e2d2d;
+    color: white;
 }
 
 .centermiddle{
     margin: auto;
     max-width: 950px;
     padding: 0px 20px 0px 20px;
-    color: #2e2d2d;
 }
+
 .maintopic{
     display: inline-block;
-    text-transform: uppercase;
-     
-    padding:0px 0px 3px 0px;
+    padding:120px 0px 3px 0px;
     font-size: 2.5em;
     font-weight: bold; 
-    // border-bottom: 1px solid #251E20; 
 }
+
 .subtopic{
-    padding: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
     font-size: 1.3em;
     text-shadow: 1px 1px #50505015;
 }
+
 .border{
     border: 2px solid black;
 }
@@ -71,7 +82,7 @@ body{
     text-decoration: none;
 }
 .navbutton:hover{
-    background-color:#136100;
+    background-color:  #136100;
     text-decoration: none;
     color: white;
 }
@@ -100,7 +111,7 @@ body{
 }
 .headshotaffiliation{ 
   
-   color: #1C8BE2;
+   color: #136100;
 //    cursor: text;
 }
 
@@ -152,6 +163,13 @@ table td > span {
 }
 .invited {
       background-color: #98a441;
+}
+
+.map {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 @import "{{ site.theme }}";
