@@ -19,8 +19,8 @@ The workshop will be a full day event from 9:00 - 18:00. The tentative schedule 
 | 14:30‑15:00 | Invited Talk | TBA |
 | 15:00‑15:20 | Contributed Talks - AI4D Language Challenge Top Teams | TBA |
 | 15:20‑15:40 | Coffee Break | TBA |
-| 15:40‑16:00 | Invited Talk |  |
-| 16:00‑17:50 | Datathon |  |
+| 15:40‑16:00 | Invited Talk: Multilingual Wikipedia Data for NLP | Isaac Johnson |
+| 16:00‑17:50 | Datathon for Wikipedia and African languages  | WikiMedia |
 | 17:50-18:00 | Closing Remarks | Vukosi Marivate, ABSA Data Science Chair, University of Pretoria |
 
 
