@@ -42,4 +42,4 @@ To submit to our workshop, please [Check out our CFP](cfp.md)
 
 ## Commitment to Diversity
 
-We commit to ensuring at minimum 30% participation of women in the workshop agenda as well as a diverse representation of language researchers from across the African continent. All organisers are committed to diversity and inclusion efforts, being extremely involved efforts such as the Deep Learning Indaba and Women in Machine Learning and Data Science (WiML)
+We commit to ensuring at minimum 30% participation of women in the workshop agenda as well as a diverse representation of language researchers from across the African continent. All organisers are committed to diversity and inclusion efforts, being extremely involved efforts such as the Deep Learning Indaba and Women in Machine Learning and Data Science (WiML). AI4Dev have sponsored a limited number of travel and conference grants to provide to scholars across the African continent. 
