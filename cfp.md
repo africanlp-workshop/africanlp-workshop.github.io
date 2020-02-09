@@ -43,7 +43,8 @@ We encourage paper submissions on (but not limited to) the following topics:
 
 We will accept problem statements and extended abstracts (up to 2 pages + references)
 
-Each 2-page submission will be _eligible_ for oral or poster presentation.
+Each 2-page submission will be _eligible_ for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
+
 
 ### Submission Format
 Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip) via [Easy Chair](https://easychair.org/account/signin?l=qZCnj1H4ui4honzKaB8tU2#).
