@@ -20,25 +20,46 @@ This workshop therefore has several aims:
 To submit to our workshop, please [Check out our CFP](cfp.md)
 
 
-<!--
+
 ## Speakers
 
 <div>
-
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/iroro.png" class="headshot">
-        <div class="headshotname">Iroro Orife</div>
-        <a href="#" class="headshotaffiliation"> Netflix, US  </a>
+        <img src="{{basepath}}/images/organizers/kathleen.jpg" class="headshot">
+        <div class="headshotname">Kathleen Siminyu</div>
+        <a href="https://www.linkedin.com/in/kathleen-siminyu-7356b810/" class="headshotaffiliation">Regional Network Coordinator for AI4Dev, Kenya </a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/jade.jpg" class="headshot">
-        <div class="headshotname"> Jade Abbott </div>
-        <a href="#" class="headshotaffiliation"> Masakhane, South Africa</a>
+        <div class="headshotname">Jade Abbott</div>
+        <a href="https://twitter.com/@alienelf" class="headshotaffiliation"> Masakhane & Retro Rabbit, South Africa </a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/michael.jpeg" class="headshot">
+        <div class="headshotname"> Michael Melese Woldeyohannis</div>
+        <a href="https://www.linkedin.com/in/michaelmelese/" class="headshotaffiliation"> Assistant Professor, Addis Ababa University, Ethiopia</a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/neubig.jpg" class="headshot">
+        <div class="headshotname"> Graham Neubig </div>
+        <a href="http://www.phontron.com/" class="headshotaffiliation">Assistant Professor, LTI@CMU, US</a>
+    </div>
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/organizers/vukosi.jpg" class="headshot">
+        <div class="headshotname">Vukosi Marivate</div>
+        <a href="http://www.vima.co.za/" class="headshotaffiliation"> ABSA Data Science Chair, University of Pretoria, South Africa </a>
+    </div>
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/isaac.jpg" class="headshot">
+        <div class="headshotname">Isaac Johnson</div>
+        <a href="https://meta.wikimedia.org/wiki/User:Isaac_(WMF)" class="headshotaffiliation"> Research Scientist, Wikimedia Foundation, US </a>
     </div>
 
 </div>
--->
+
 
 ## Commitment to Diversity
 
