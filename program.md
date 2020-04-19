@@ -51,7 +51,6 @@ The invited and contributed talks are pre-recorded with Q&A Sessions. The poster
 |            |          | Wuraola Oyewusi             | Semantic Enrichment of Nigerian Pidgin English for Contextual Sentiment Classification                                 |
 |            |          | Surafel Melaku Lakew        | Low Resource Neural Machine Translation: A Benchmark for Five African Languages                                        |
 |            |          | Michael Franklin Mbouopda   | Neurals Networks for Projecting Named Entities from English to Ewondo                                                  |
-|            |          | Jade Abbott                 | Masakhane - Machine Translation For Africa                                                                             |
 |            |          | Chau Tran                   | Neural Machine Translation for African Languages                                                                       |
 |            |          | Iroro Orife                 | Towards Neural Machine Translation for Edoid Languages                                                                 |
 | 17:10      | 10 min   | Vukosi Marivate             | Closing Remarks                                                                                                        |
