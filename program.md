@@ -18,15 +18,15 @@ The invited and contributed talks are pre-recorded with Q&A Sessions. The poster
 | 8:40 AM    | 20 min   | David Adelani           | Contributed Talk: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá |
 | 9:00 AM    | 10 min   | Thierno Diop            | AI4D Challenge Winner: Crowdsourcing a Wolof ASR dataset using a custom built tool                                                    |
 | 9:10 AM    | 50 min   |                         | Poster Session and Q&A                                                                                                                |
-|            |          | Chayma Fourati          | TUNIZI: A TUNISIAN ARABIZI SENTIMENT ANALYSIS DATASET                                                                                 |
-|            |          | Girma Sisay             | THE MODIFIED SEGMENTATION ALGORITHM FOR RECOGNITION OF ANCIENT GE’EZ SCRIPTS WRITTEN ON THE VELLUM                                    |
+|            |          | Chayma Fourati          | Tunizi: A Tunisian Arabizi Sentiment Analysis Dataset                                                                                 |
+|            |          | Girma Sisay             | The Modified Segmentation Algorithm for Recognition of Ancient Ge’ez Scripts Written on the Vellum                                    |
 |            |          | Ernie Chang             | Unsupervised Pidgin Text Generation By Pivoting English Data and Self-Training                                                        |
 |            |          | Sileye Ba               | Using LSTM Networks to Translate from French to Senegalese Local Languages: Wolof as a Case Study                                     |
 |            |          | Amr Zaki                | Amharic Abstractive Text Summarization                                                                                                |
 |            |          | Ashok Thillaisundaram   | A Hierarchical Transformer for Unsupervised Parsing                                                                                   |
 |            |          | Elan van Biljon         | On optimal transformer depth for low-resource language translation                                                                    |
 |            |          | Machel Reid             | Combining Pretrained High-Resource Embeddings and Subword Representations for Low-Resource Languages                                  |
-|            |          | Asmelash Teka Hadgu     | EVALUATING AMHARIC MACHINE TRANSLATION                                                                                                |
+|            |          | Asmelash Teka Hadgu     | Evaluating Amharic Machine Translation	                                                                                                |
 |            |          | Chris Emezue            | FFR V1.0: Fon-French Neural Machine Translation                                                                                       |
 |            |          | Roshna Omer Abdulrahman | Using Punkt for Sentence Segmentation in non-Latin Scripts: Experiments on Kurdish (Sorani) Texts                                     |
 |            |          | Alp Oktem               | Tigrinya Neural Machine Translation with Transfer Learning for Humanitarian Response                                                  |
