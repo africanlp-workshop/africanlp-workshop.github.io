@@ -43,12 +43,12 @@ The invited and contributed talks are pre-recorded with Q&A Sessions. The poster
 | 16:50      | 10 min   | Dosseh Ameck Guy Max Desire | Creating MT and ASR datasets from online sources                                                                       |
 | 17:00      | 50 min   |                             | Poster Session and Q&A                                                                                                 |
 |            |          | Vukosi Marivate             | Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi |
-|            |          | Olamilekan Wahab            | POOLED EMBEDDINGS FOR UNSUPERVISED INDUCTION OF YORÙBÁ MORPHOLOGY                                                      |
+|            |          | Olamilekan Wahab            | Pooled Embeddings for Unsupervised Induction of Yorùbá Morphology                                                      |
 |            |          | Jason Webster               | Neural Machine Translation for South Africa's Official Languages                                                       |
 |            |          | Allahsera Auguste Tapo      | Assessing Human Translations from French to Bambara for Machine Learning: a Pilot Study                                |
 |            |          | Ignatius Ezeani             | A Benchmark Dataset for Igbo-English Machine Translation                                                               |
 |            |          | Khalid Elmadani             | Bert Fine-tuning For Arabic Text Summarization                                                                         |
-|            |          | Wuraola Oyewusi             | SEMANTIC ENRICHMENT OF NIGERIAN PIDGIN ENGLISH FOR CONTEXTUAL SENTIMENT CLASSIFICATION                                 |
+|            |          | Wuraola Oyewusi             | Semantic Enrichment of Nigerian Pidgin English for Contextual Sentiment Classification                                 |
 |            |          | Surafel Melaku Lakew        | Low Resource Neural Machine Translation: A Benchmark for Five African Languages                                        |
 |            |          | Michael Franklin Mbouopda   | Neurals Networks for Projecting Named Entities from English to Ewondo                                                  |
 |            |          | Jade Abbott                 | Masakhane - Machine Translation For Africa                                                                             |

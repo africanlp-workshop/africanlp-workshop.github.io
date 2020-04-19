@@ -120,7 +120,6 @@ body{
 }
 table {
     width: 100%;
-    max-width: 50rem;
     color: #fff;
 }
 table th {
@@ -131,7 +130,7 @@ table td {
     padding: 0.5rem 1rem;
 }
 table th {
-    font-weight: normal;
+    font-weight: bold;
 }
 table td {
     font-size: 1rem;
