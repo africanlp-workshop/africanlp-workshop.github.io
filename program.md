@@ -2,30 +2,56 @@
 
 ## Program
 
+The workshop format has been updated to try be as inclusive of as many timezones as possible. The workshop will be split into a UCT Morning session which is Europe, Africa and Asia friendly, and an evening session which is more America friendly. 
+
+The invited and contributed talks are pre-recorded with Q&A Sessions. The poster sessions also consist of quick talks. 
 
 
+## Morning Session (UCT)
 
-The workshop will be a full day event from 9:00 - 18:00. The tentative schedule is as follows:
+| Time (UCT) | Duration | Speaker                 | Title                                                                                                                                 |
+|------------|----------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 7:00 AM    | 10 min   | Kathleen Siminyu        | Opening Remarks                                                                                                                       |
+| 7:10 AM    | 35 min   | Jade Abbott             | Invited Talk: Masakhane, A Focus on Machine Translation for African Languages                                                         |
+| 7:45 AM    | 35 min   | Michael Melese          | Invited Talk: Techniques for Low Resource NLP using EthioNLP as a case study                                                          |
+| 8:20 AM    | 20 min   | Kelechi Ogueji          | Contributed Talk: Towards Supervised and Unsupervised Neural Machine Translation Baselines for Nigerian Pidgin                        |
+| 8:40 AM    | 20 min   | David Adelani           | Contributed Talk: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá |
+| 9:00 AM    | 10 min   | Thierno Diop            | AI4D Challenge Winner: Crowdsourcing a Wolof ASR dataset using a custom built tool                                                    |
+| 9:10 AM    | 50 min   |                         | Poster Session and Q&A                                                                                                                |
+|            |          | Chayma Fourati          | TUNIZI: A TUNISIAN ARABIZI SENTIMENT ANALYSIS DATASET                                                                                 |
+|            |          | Girma Sisay             | THE MODIFIED SEGMENTATION ALGORITHM FOR RECOGNITION OF ANCIENT GE’EZ SCRIPTS WRITTEN ON THE VELLUM                                    |
+|            |          | Ernie Chang             | Unsupervised Pidgin Text Generation By Pivoting English Data and Self-Training                                                        |
+|            |          | Sileye Ba               | Using LSTM Networks to Translate from French to Senegalese Local Languages: Wolof as a Case Study                                     |
+|            |          | Amr Zaki                | Amharic Abstractive Text Summarization                                                                                                |
+|            |          | Ashok Thillaisundaram   | A Hierarchical Transformer for Unsupervised Parsing                                                                                   |
+|            |          | Elan van Biljon         | On optimal transformer depth for low-resource language translation                                                                    |
+|            |          | Machel Reid             | Combining Pretrained High-Resource Embeddings and Subword Representations for Low-Resource Languages                                  |
+|            |          | Asmelash Teka Hadgu     | EVALUATING AMHARIC MACHINE TRANSLATION                                                                                                |
+|            |          | Chris Emezue            | FFR V1.0: Fon-French Neural Machine Translation                                                                                       |
+|            |          | Roshna Omer Abdulrahman | Using Punkt for Sentence Segmentation in non-Latin Scripts: Experiments on Kurdish (Sorani) Texts                                     |
+|            |          | Alp Oktem               | Tigrinya Neural Machine Translation with Transfer Learning for Humanitarian Response                                                  |
 
-|-------|--------|-------|
-| 08:30-08:40 | Opening remarks | Kathleen Siminyu, Lead for AI4D-Africa Network | 
-| 08:40‑09:10 | Invited Talk: Masakhane, A Focus on Machine Translation for African Languages | Jade Abbott, Masakhane Co-Founder, ML Enginner, Retro Rabbit | 
-| 09:10‑09:35 | Contributed Talk | TBA |
-| 09:35‑10:00 | Contributed Talk | TBA |
-| 10:00-10:30 | Invited talk | TBA |
-| 10.30-11.00 | Coffee break |  |
-| 11:00‑11:20 | Contributed Talk | TBA |
-| 11:20‑11:40 | Contributed Talk| TBA |
-| 11:40‑12:10 | Poster Session |  |
-| 12:10-12:40 | Invited Talk | Michael Melese, Lecturer at Addis Ababa University |
-| 12:40-13:00 | Contributed Talks - AI4D Language Challenge Top Teams | TBA |
-| 13:00‑14:30 | Lunch |  |
-| 14:30‑15:00 | Invited Talk: Introduction to Multilingual Wikipedia Data for NLP | Isaac Johnson, Research Scientist at Wikimedia Foundation |
-| 15:00‑16:00 | Datathon (Data Creation and curation hackathon) | Part 1 |
-| 16:00‑16:30 | Coffee Break | |
-| 16:00‑17:50 | Datathon (Data Creation and curation hackathon) | Part 2 |
-| 17:50-18:00 | Closing Remarks | Vukosi Marivate, ABSA Data Science Chair, University of Pretoria |
+## Evening Session (UCT)
 
 
-
-Each oral presentation will be 15 minutes followed by 5 minutes for Q/A, each invited speaker presentation will be 25 minutes followed by 5 minutes for Q/A for increased discussion. 
+| Time (GMT) | Duration | Speaker                     | Title                                                                                                                  |
+|------------|----------|-----------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 15:00      | 35 min   | Graham Neubig               | Invited Talk: The Low-resource Natural Language Processing Toolbox, 2020 Version                                       |
+| 15:35      | 35 min   | Isaac Johnson               | Invited Talk: Introduction to Multilingual Wikipedia Data for NLP                                                      |
+| 16:10      | 20 min   | Salma El Anigri             | Contributed Talk: Towards A Sign Language Gloss Representation Of Modern Standard Arabic                               |
+| 16:30      | 20 min   | Iroro Orife                 | Contributed Talk: Improving Yorùbá Diacritic Restoration                                                               |
+| 16:50      | 10 min   | Dosseh Ameck Guy Max Desire | Creating MT and ASR datasets from online sources                                                                       |
+| 17:00      | 50 min   |                             | Poster Session and Q&A                                                                                                 |
+|            |          | Vukosi Marivate             | Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi |
+|            |          | Olamilekan Wahab            | POOLED EMBEDDINGS FOR UNSUPERVISED INDUCTION OF YORÙBÁ MORPHOLOGY                                                      |
+|            |          | Jason Webster               | Neural Machine Translation for South Africa's Official Languages                                                       |
+|            |          | Allahsera Auguste Tapo      | Assessing Human Translations from French to Bambara for Machine Learning: a Pilot Study                                |
+|            |          | Ignatius Ezeani             | A Benchmark Dataset for Igbo-English Machine Translation                                                               |
+|            |          | Khalid Elmadani             | Bert Fine-tuning For Arabic Text Summarization                                                                         |
+|            |          | Wuraola Oyewusi             | SEMANTIC ENRICHMENT OF NIGERIAN PIDGIN ENGLISH FOR CONTEXTUAL SENTIMENT CLASSIFICATION                                 |
+|            |          | Surafel Melaku Lakew        | Low Resource Neural Machine Translation: A Benchmark for Five African Languages                                        |
+|            |          | Michael Franklin Mbouopda   | Neurals Networks for Projecting Named Entities from English to Ewondo                                                  |
+|            |          | Jade Abbott                 | Masakhane - Machine Translation For Africa                                                                             |
+|            |          | Chau Tran                   | Neural Machine Translation for African Languages                                                                       |
+|            |          | Iroro Orife                 | Towards Neural Machine Translation for Edoid Languages                                                                 |
+| 17:10      | 10 min   | Vukosi Marivate             | Closing Remarks                                                                                                        |
