@@ -20,7 +20,7 @@
 </div>
 
 
-## Program Committee
+## Programme Chair
 
 <div>
 
@@ -30,3 +30,5 @@
         <a href="#"  target='_blank' class="headshotaffiliation"> Explore Data Science, ZA </a>
     </div>
 </div>
+
+## Programme Committee

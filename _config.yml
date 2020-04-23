@@ -7,13 +7,16 @@ basepath: ""
 navigation:
 - text: HOME
   url: /
-- text: CALL FOR PAPERS
-  url: /cfp.html
-- text: DATES
-  url: /dates.html
-  layout: project
 - text: PROGRAM
   url: /program.html
   layout: post
 - text: ORGANIZERS
   url: /organizers.html  
+- text: AI4DEV
+  url: /ai4dev.html  
+- text: DATES
+  url: /dates.html
+  layout: project
+- text: CALL FOR PAPERS
+  url: /cfp.html
+

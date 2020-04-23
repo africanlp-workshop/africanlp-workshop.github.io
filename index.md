@@ -20,6 +20,16 @@ This workshop therefore has several aims:
 ## Speakers
 
 <div class="iblock headshotbox "> 
+    <img src="{{basepath}}/images/speakers/david.jpeg" class="headshot">
+    <div class="headshotname">David Adelani</div>
+    <a href="https://www.linkedin.com/in/david-adelani-7557b337/" class="headshotaffiliation"> PhD Student, Universität des Saarlandes</a>
+</div>
+<div class="iblock headshotbox "> 
+    <img src="{{basepath}}/images/speakers/oreva.jpeg" class="headshot">
+    <div class="headshotname">Orevaoghene Ahia</div>
+    <a href="https://ng.linkedin.com/in/kelechi-ogueji" class="headshotaffiliation"> Researcher, InstaDeep</a>
+</div>
+<div class="iblock headshotbox "> 
     <img src="{{basepath}}/images/speakers/michael.jpeg" class="headshot">
     <div class="headshotname"> Michael Melese Woldeyohannis</div>
     <a href="https://www.linkedin.com/in/michaelmelese/" class="headshotaffiliation"> Assistant Professor, Addis Ababa University, Ethiopia</a>
@@ -35,28 +45,30 @@ This workshop therefore has several aims:
     <a href="http://www.phontron.com/" class="headshotaffiliation">Assistant Professor, LTI@CMU, US</a>
 </div>
 <div class="iblock headshotbox "> 
-    <img src="{{basepath}}/images/speakers/iroro.png" class="headshot">
-    <div class="headshotname">Iroro Orife</div>
-    <a href="https://www.linkedin.com/in/iroroorife" class="headshotaffiliation"> Researcher, Masakhane </a>
-</div>
-<div class="iblock headshotbox "> 
     <img src="{{basepath}}/images/speakers/salma.jpeg" class="headshot">
     <div class="headshotname">Salma El Anigri</div>
     <a href="https://www.linkedin.com/in/salma-el-anigri-91b934141/" class="headshotaffiliation"> PhD Student, Mohammed V University</a>
 </div>
-<div class="iblock headshotbox "> 
-    <img src="{{basepath}}/images/speakers/david.jpeg" class="headshot">
-    <div class="headshotname">David Adelani</div>
-    <a href="https://www.linkedin.com/in/david-adelani-7557b337/" class="headshotaffiliation"> PhD Student, Universität des Saarlandes</a>
-</div>
+
 <div class="iblock headshotbox "> 
     <img src="{{basepath}}/images/speakers/isaac.jpg" class="headshot">
     <div class="headshotname">Isaac Johnson</div>
     <a href="https://meta.wikimedia.org/wiki/User:Isaac_(WMF)" class="headshotaffiliation"> Researcher, Wikimedia Foundation </a>
 </div>
 
-<div class="iblock headshotbox "> 
-    <img src="{{basepath}}/images/speakers/kelechi.jpg" class="headshot">
-    <div class="headshotname">Kelechi Ogueji</div>
-    <a href="https://ng.linkedin.com/in/kelechi-ogueji" class="headshotaffiliation"> Researcher, InstaDeep</a>
+
+## Sponsors
+
+None of this would be possible without the funding and support of the following organisations:
+<div class="iblock sponsor">
+<img src="{{basepath}}/images/sponsors/ai4dev.png">
+</div>
+<div class="iblock sponsor">
+<img src="{{basepath}}/images/sponsors/idrc.png">
+</div>
+<div class="iblock sponsor">
+<img src="{{basepath}}/images/sponsors/k4a.png">
+</div>
+<div class="iblock sponsor">
+<img src="{{basepath}}/images/sponsors/sida.png">
 </div>
