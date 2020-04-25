@@ -65,7 +65,7 @@ While you're contributing, [feel free to checkout the presentations by AI4Dev pr
 | 15:00 | Invited Talk: The Low-resource Natural Language Processing Toolbox, 2020 Version         | Graham Neubig               | [slides](https://drive.google.com/open?id=12y3-VTz7gFhfsyBVRndVeHWnl_Q5-LUT)                                                |
 | 15:35 | Panel Discussion: What are African NLP's Moonshot Problems?       | Natalie Schluter, Sebastian Ruder, Surafel Melaku Lakew, moderated by Jade Abbott             |                                                                                                                             |
 | 16:10 | Contributed Talk: Towards A Sign Language Gloss Representation Of Modern Standard Arabic | Salma El Anigri             | [poster](https://drive.google.com/open?id=1p8pkuhVnvvmDJ0-gWHvpMfybhcdyiJsF)                                                |
-| 16:30 | Contributed Talk: Improving Yorùbá Diacritic Restoration                                 | Iroro Orife                 | [paper](https://arxiv.org/pdf/2003.10564.pdf), [poster](https://drive.google.com/open?id=1f46isal7c6NiuUol_W5qhrNM-I92Knb7) |
+| 16:30 | Contributed Talk: Improving Yorùbá Diacritic Restoration                                 | David Adelani                 | [paper](https://arxiv.org/pdf/2003.10564.pdf), [poster](https://drive.google.com/open?id=1f46isal7c6NiuUol_W5qhrNM-I92Knb7) |
 | 16:50 | AI4D Challenge Winner: Creating MT and ASR datasets from online sources                  | Dosseh Ameck Guy Max Desire | [slides](https://drive.google.com/open?id=1P9RnZi8i6VBhZiHDqzUimTY-nCguJAtf)                                                |                                                         |
 
 
@@ -89,5 +89,5 @@ While you're contributing, [feel free to checkout the presentations by AI4Dev pr
 
 ### Evening Q&A with Invited & Contributed talk speakers
 
-| 18:00 | LIVE Q&A with Invited & Contributed talk Speakers                                                                                                 |  Graham Neubig, Michael Melese, Salm El Anigri, Ororo Orife, Dosseh Ameck Guy Max Desire|                                                                                                                             |
+| 18:00 | LIVE Q&A with Invited & Contributed talk Speakers                                                                                                 |  Graham Neubig, Salma El Anigri, Iroro Orife, David Adelani Dosseh Ameck Guy Max Desire|                                                                                                                             |
 | 18:30 | Closing Remarks                                                                                                        | Vukosi Marivate                                                                         |                                                                                                                             |

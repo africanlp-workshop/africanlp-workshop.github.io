@@ -40,6 +40,7 @@
 ## Programme Committee
 Thank you to our amazing programme committee for all the time spent on reviews! 
 
+- Bernard Duvenhage, Praekelt
 - Spandana Gella, University of Edinburgh
 - Asmelash Teka Hadgu, Lesan AI
 - Shruti Rijhwani, CMU

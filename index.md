@@ -8,7 +8,7 @@ Please join us on the 26th of April via the [Official ICLR 2020 Virtual Workshop
 - The workshop calendar can be viewed in your timezone [here](https://iclr.cc/virtual/workshops_10.html)
 - Discussions, comments and questions can be posted on the Rocket Chat embedded in the virtual workshop portal
 - The invited and contributed talks are pre-recorded. But the end of the sessions, there will be a Live Q&A with the speakers of the invited and contributed talks. The hosts will ask the questions from rocket chat during those sessions
-- The poster sessions also consists of short 3-5 minute talks. We have asked the poster presenters to be available via rocket chat to answer questions. (Unfortunately live Q&A poster sessions per person were not logistically viable) 
+- The poster sessions also consists of short 3-5 minute talks. We have asked the poster presenters to be available via rocket chat to answer questions. (Unfortunately live Q&A poster sessions per person were not logistically viable).
 - We encourage the authors and attendees to have their own zoom calls or chats. Let's make those magical conference corridor chats happen! :)
 
 
