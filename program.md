@@ -3,7 +3,7 @@
 ## Program
 
 
-The workshop format has been updated to try be as inclusive of as many timezones as possible. The workshop will be split into a UCT Morning session which is Europe, Africa and Asia friendly, and a UCT Evening session which is more America friendly. 
+The workshop format has been updated to try be as inclusive of as many timezones as possible. The workshop will be split into a UTC Morning session which is Europe, Africa and Asia friendly, and a UTC Evening session which is more America friendly. 
 
 ## Virtual Logistics
 
@@ -15,9 +15,9 @@ The workshop format has been updated to try be as inclusive of as many timezones
 - We encourage the authors and attendees to have their own zoom calls or chats. Let's make those magical conference corridor chats happen! :)
 
 
-## Morning Session (UCT)
+## Morning Session (UTC)
 
-### Morning Invited & Contributed Talks (UCT)
+### Morning Invited & Contributed Talks (UTC)
 
 | Time    | Title                                                                                                                                 | Speaker          | Resources                                                                                                                          |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ The workshop format has been updated to try be as inclusive of as many timezones
 | 8:05 AM | Contributed Talk: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá | David Adelani    | [paper](https://arxiv.org/abs/2003.08370), [poster](https://drive.google.com/open?id=1dhR_bwNvXT6J_m4pVY_qoXfU4NXlECj7)            |
 | 8:25 AM | AI4D Challenge Winner: Crowdsourcing a Wolof ASR dataset using a custom built tool                                                    | Thierno Diop     | [slides](https://drive.google.com/open?id=17m9zCKk4dK7lpqNCCPA2kAAwlSwthHqg)                                                       |                                                                                           |
 
-### Morning Poster Session (UCT)
+### Morning Poster Session (UTC)
 
 | Time    | Title                                                                                                                                 | Speaker          | Resources                                                                                                                          |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,21 +44,21 @@ The workshop format has been updated to try be as inclusive of as many timezones
 | 9:20 AM  | FFR V1.0: Fon-French Neural Machine Translation                                                      | Chris Emezue & Bonaventure Dossou                                                                        | [paper](https://arxiv.org/pdf/2003.12111.pdf), [poster](https://drive.google.com/open?id=1Gl9n5-BHj3S9mLFu8riaWDwMhV8JkFc9)             |
 | 9:25 AM  | Using Punkt for Sentence Segmentation in non-Latin Scripts: Experiments on Kurdish (Sorani) Texts    | Roshna Omer Abdulrahman                                                                                  | [poster](https://drive.google.com/open?id=10DbS9j05wYawN8elVGZfK69UcdHSQmT6)                                                            |
 | 9:30 AM  | Tigrinya Neural Machine Translation with Transfer Learning for Humanitarian Response                 | Alp Oktem                                                                                                | [paper](https://arxiv.org/pdf/2003.11523.pdf),  [poster](https://drive.google.com/open?id=1gGwPJFEZNkLXSMiQX2U0fQLDGnbDRbaB)            |
-| 9:45 AM  | Invited Talk: Introduction to Multilingual Wikipedia Data for NLP                                    | Isaac Johnson                                                                                            | [slides](https://drive.google.com/open?id=13HDcddWnqwfrkTF7Eqow13yhfVO0_4zA)                                                            |
+| 9:45 AM  | Invited Talk: IntrodUTCion to Multilingual Wikipedia Data for NLP                                    | Isaac Johnson                                                                                            | [slides](https://drive.google.com/open?id=13HDcddWnqwfrkTF7Eqow13yhfVO0_4zA)                                                            |
 
-### Morning Q&A with Invited & Contributed talk speakers (UCT)
+### Morning Q&A with Invited & Contributed talk speakers (UTC)
 
 | 10:00 AM | LIVE Q&A with Invited & Contributed talk speakers                                                                     | Jade Abbott, Orevaoghene Ahia, David Adelani, Theirno Diop, Isaac Johnson, moderated by Kathleen Siminyu |                                                                                                                                         |
 
-## Midday Datathon (UCT)
+## Midday Datathon (UTC)
 
 The Wikimedia team are hosting a Datathon which will run from 10:30AM - 15:00, in between the morning and evening session. So bring along your grandmother, your partner, your roommate, and let's work together to contribute to wikipedia for our native languages!
 
 While you're contributing, [feel free to checkout the presentations by AI4Dev projects, across Africa.](/ai4dev.html)
 
-## Evening Session (UCT)
+## Evening Session (UTC)
 
-### Evening Invited & Contributed Talks (UCT)
+### Evening Invited & Contributed Talks (UTC)
 
 | Time  | Title                                                                                    | Speaker                     | Resources                                                                                                                   |
 |-------|------------------------------------------------------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -69,14 +69,14 @@ While you're contributing, [feel free to checkout the presentations by AI4Dev pr
 | 16:50 | AI4D Challenge Winner: Creating MT and ASR datasets from online sources                  | Dosseh Ameck Guy Max Desire | [slides](https://drive.google.com/open?id=1P9RnZi8i6VBhZiHDqzUimTY-nCguJAtf)                                                |                                                         |
 
 
-### Evening Poster Session (UCT)
+### Evening Poster Session (UTC)
 
 
 | Time  | Title                                                                                    | Speaker                     | Resources                                                                                                                   |
 |-------|------------------------------------------------------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 17:00 | Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi | Vukosi Marivate                                                                         | [paper](https://arxiv.org/pdf/2003.04986.pdf), [slides]() [poster]()                                                        |
 |-------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 17:05 | Pooled Embeddings for Unsupervised Induction of Yorùbá Morphology                                                      | Olamilekan Wahab                                                                        |                                                                                                                             |
+| 17:05 | Pooled Embeddings for Unsupervised IndUTCion of Yorùbá Morphology                                                      | Olamilekan Wahab                                                                        |                                                                                                                             |
 | 17:10 | Neural Machine Translation for South Africa's Official Languages                                                       | Jason Webster                                                                           |                                                                                                                             |
 | 17:15 | Assessing Human Translations from French to Bambara for Machine Learning: a Pilot Study                                | Allahsera Auguste Tapo                                                                  | [paper](https://arxiv.org/abs/2004.00068), [poster](https://drive.google.com/open?id=1vn3iDkC8HU5miYqeR1AS4cY6wXJ0EZmg)     |
 | 17:20 | A Benchmark Dataset for Igbo-English Machine Translation                                                               | Ignatius Ezeani                                                                         | [paper](https://arxiv.org/pdf/2004.00648), [poster](https://drive.google.com/open?id=1P9RnZi8i6VBhZiHDqzUimTY-nCguJAtf)     |
