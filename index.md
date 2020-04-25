@@ -1,5 +1,11 @@
 ## AfricaNLP Workshop
 
+Please join us on the 26th of April via the [Official ICLR 2020 Virtual Workshop Portal](https://iclr.cc/virtual/workshops_10.html)
+
+Access our [schedule here]()
+
+### About
+
 Africa has over 2000 languages and yet is one of the least represented in African research. Andrew Caines, in his article <a href="http://www.marekrei.com/blog/geographic-diversity-of-nlp-conferences/">The Geographic Diversity of NLP Conferences</a> highlights the need for NLP work from the continent
 
 <figure>
@@ -30,9 +36,9 @@ This workshop therefore has several aims:
     <a href="https://ng.linkedin.com/in/kelechi-ogueji" class="headshotaffiliation"> Researcher, InstaDeep</a>
 </div>
 <div class="iblock headshotbox "> 
-    <img src="{{basepath}}/images/speakers/michael.jpeg" class="headshot">
-    <div class="headshotname"> Michael Melese Woldeyohannis</div>
-    <a href="https://www.linkedin.com/in/michaelmelese/" class="headshotaffiliation"> Assistant Professor, Addis Ababa University, Ethiopia</a>
+    <img src="{{basepath}}/images/speakers/natalie.jpg" class="headshot">
+    <div class="headshotname"> Natalie Schluter</div>
+    <a href="https://natschluter.github.io/" class="headshotaffiliation">Visiting Faculty, Google Brain, Associate Professor, University of Copenhagen</a>
 </div>
 <div class="iblock headshotbox "> 
     <img src="{{basepath}}/images/speakers/jade.jpg" class="headshot">
@@ -48,6 +54,18 @@ This workshop therefore has several aims:
     <img src="{{basepath}}/images/speakers/salma.jpeg" class="headshot">
     <div class="headshotname">Salma El Anigri</div>
     <a href="https://www.linkedin.com/in/salma-el-anigri-91b934141/" class="headshotaffiliation"> PhD Student, Mohammed V University</a>
+</div>
+<div class="iblock headshotbox "> 
+    <img src="{{basepath}}/images/speakers/sebastian.jpg" class="headshot">
+    <div class="headshotname"> Sebastian Ruder</div>
+    <a href="https://ruder.io/" class="headshotaffiliation">Research scientist, DeepMind
+ </a>
+</div>
+<div class="iblock headshotbox "> 
+    <img src="{{basepath}}/images/speakers/surafel.jpg" class="headshot">
+    <div class="headshotname"> Surafel Melaku Lakew</div>
+    <a href="https://twitter.com/surafelml" class="headshotaffiliation">Researcher, Fondazione Bruno Kessler, HLT-MT
+ </a>
 </div>
 
 <div class="iblock headshotbox "> 
