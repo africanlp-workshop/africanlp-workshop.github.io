@@ -54,13 +54,18 @@ The workshop format has been updated to try be as inclusive of as many timezones
 
 The Wikimedia team are hosting a Datathon which will run from 10:30AM - 15:00, in between the morning and evening session. So bring along your grandmother, your partner, your roommate, and let's work together to contribute to wikipedia for our native languages!
 
+You'll hear more about this in Isaac Johnson's talk, and in the morning Q&A. But here are some useful links for when you need them:
+- Content Translation: https://sw.wikipedia.org/wiki/Maalum:ContentTranslation (KiSwahili)
+- KiSwahili English Parallel Translation - https://paws-public.wmflabs.org/paws-public/User:Isaac_(WMF)/Kiswahili-English%20Parallel%20Translation%20Data.ipynb
+(more links on the way!)
+
 While you're contributing, [feel free to checkout the presentations by AI4Dev projects, across Africa.](/ai4dev.html)
 
 ## Evening Session (UTC)
 
 ### Evening Invited & Contributed Talks (UTC)
 
-| Time  | Title                                                                                    | Speaker                     | Resources                                                                                                                   |
+| Time  | Title                      n                                                              | Speaker                     | Resources                                                                                                                   |
 |-------|------------------------------------------------------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 15:00 | Invited Talk: The Low-resource Natural Language Processing Toolbox, 2020 Version         | Graham Neubig               | [slides](https://drive.google.com/open?id=12y3-VTz7gFhfsyBVRndVeHWnl_Q5-LUT)                                                |
 | 15:35 | Panel Discussion: What are African NLP's Moonshot Problems?       | Natalie Schluter, Sebastian Ruder, Surafel Melaku Lakew, moderated by Jade Abbott             |                                                                                                                             |
